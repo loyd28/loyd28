@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loyd28
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently working on Data Science projects.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me loyd.azavedo@gmail.com
 
